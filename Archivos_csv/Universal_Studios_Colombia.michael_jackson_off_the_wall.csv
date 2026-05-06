@@ -1,0 +1,6 @@
+_id,titulo,anio_salida,autor,id_imagen_portada,genero,duracion_seg,numero_ventas
+MJ-OW-001,Don't Stop 'Til You Get Enough,1979,Michael Jackson,Fotos_albums/Michael_Jackson/don't_stop_til_you_get_enough.jpg,Funk / Disco,365,6000000
+MJ-OW-002,Rock with You,1979,Michael Jackson,Fotos_albums/Michael_Jackson/rock_with_you.jpg,R&B / Disco,222,5500000
+MJ-OW-003,Off the Wall,1979,Michael Jackson,Fotos_albums/Michael_Jackson/off_the_wall.jpg,Funk / Soul,244,3200000
+MJ-OW-004,She's Out of My Life,1979,Michael Jackson,Fotos_albums/Michael_Jackson/she's_out_of_my_life.jpg,Soul / Ballad,223,4100000
+MJ-OW-005,Workin' Day and Night,1979,Michael Jackson,Fotos_albums/Michael_Jackson/Workin_day_and_night.jpg,Funk / Pop,296,2800000

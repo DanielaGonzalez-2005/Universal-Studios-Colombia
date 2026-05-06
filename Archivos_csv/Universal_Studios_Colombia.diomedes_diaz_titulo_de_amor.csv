@@ -1,0 +1,6 @@
+_id,titulo,anio_salida,autor,id_imagen_portada,genero,duracion_seg,numero_ventas
+DD-TA-001,Título de Amor,1983,Diomedes Díaz,Fotos_albums/Diomedes_Diaz/titulo_de_amor.jpg,Vallenato,268,900000
+DD-TA-002,La Custodia,1983,Diomedes Díaz,Fotos_albums/Diomedes_Diaz/la_custodia.jpg,Vallenato,252,750000
+DD-TA-003,El Cantor de Fonseca,1983,Diomedes Díaz,Fotos_albums/Diomedes_Diaz/el_cantor_de_fonseca.jpg,Vallenato,240,700000
+DD-TA-004,Mi Primera Chela,1983,Diomedes Díaz,Fotos_albums/Diomedes_Diaz/mi_primera_chela.jpg,Vallenato,230,620000
+DD-TA-005,Bonita,1983,Diomedes Díaz,Fotos_albums/Diomedes_Diaz/bonita.jpg,Vallenato,245,680000
