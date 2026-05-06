@@ -1,0 +1,50 @@
+[{
+  "_id": "DD-TA-001",
+  "titulo": "Título de Amor",
+  "anio_salida": 1983,
+  "autor": "Diomedes Díaz",
+  "id_imagen_portada": "Fotos_albums/Diomedes_Diaz/titulo_de_amor.jpg",
+  "genero": "Vallenato",
+  "duracion_seg": 268,
+  "numero_ventas": 900000
+},
+{
+  "_id": "DD-TA-002",
+  "titulo": "La Custodia",
+  "anio_salida": 1983,
+  "autor": "Diomedes Díaz",
+  "id_imagen_portada": "Fotos_albums/Diomedes_Diaz/la_custodia.jpg",
+  "genero": "Vallenato",
+  "duracion_seg": 252,
+  "numero_ventas": 750000
+},
+{
+  "_id": "DD-TA-003",
+  "titulo": "El Cantor de Fonseca",
+  "anio_salida": 1983,
+  "autor": "Diomedes Díaz",
+  "id_imagen_portada": "Fotos_albums/Diomedes_Diaz/el_cantor_de_fonseca.jpg",
+  "genero": "Vallenato",
+  "duracion_seg": 240,
+  "numero_ventas": 700000
+},
+{
+  "_id": "DD-TA-004",
+  "titulo": "Mi Primera Chela",
+  "anio_salida": 1983,
+  "autor": "Diomedes Díaz",
+  "id_imagen_portada": "Fotos_albums/Diomedes_Diaz/mi_primera_chela.jpg",
+  "genero": "Vallenato",
+  "duracion_seg": 230,
+  "numero_ventas": 620000
+},
+{
+  "_id": "DD-TA-005",
+  "titulo": "Bonita",
+  "anio_salida": 1983,
+  "autor": "Diomedes Díaz",
+  "id_imagen_portada": "Fotos_albums/Diomedes_Diaz/bonita.jpg",
+  "genero": "Vallenato",
+  "duracion_seg": 245,
+  "numero_ventas": 680000
+}]

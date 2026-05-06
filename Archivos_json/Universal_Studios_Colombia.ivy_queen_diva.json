@@ -1,0 +1,50 @@
+[{
+  "_id": "IQ-DV-001",
+  "titulo": "Yo Quiero Bailar",
+  "anio_salida": 2003,
+  "autor": "Ivy Queen",
+  "id_imagen_portada": "Fotos_albums/Ivy_queen/yo_quiero_bailar.jpg",
+  "genero": "Reggaeton",
+  "duracion_seg": 228,
+  "numero_ventas": 3800000
+},
+{
+  "_id": "IQ-DV-002",
+  "titulo": "Quiero Más",
+  "anio_salida": 2003,
+  "autor": "Ivy Queen",
+  "id_imagen_portada": "Fotos_albums/Ivy_queen/quiero_mas.jpg",
+  "genero": "Reggaeton",
+  "duracion_seg": 215,
+  "numero_ventas": 2900000
+},
+{
+  "_id": "IQ-DV-003",
+  "titulo": "Dime",
+  "anio_salida": 2003,
+  "autor": "Ivy Queen",
+  "id_imagen_portada": "Fotos_albums/Ivy_queen/dime.jpg",
+  "genero": "Reggaeton / R&B",
+  "duracion_seg": 204,
+  "numero_ventas": 2100000
+},
+{
+  "_id": "IQ-DV-004",
+  "titulo": "Cuéntame",
+  "anio_salida": 2003,
+  "autor": "Ivy Queen",
+  "id_imagen_portada": "Fotos_albums/Ivy_queen/cuentame.jpg",
+  "genero": "Reggaeton",
+  "duracion_seg": 232,
+  "numero_ventas": 1700000
+},
+{
+  "_id": "IQ-DV-005",
+  "titulo": "Tócame",
+  "anio_salida": 2003,
+  "autor": "Ivy Queen",
+  "id_imagen_portada": "Fotos_albums/Ivy_queen/tocame.jpg",
+  "genero": "Reggaeton",
+  "duracion_seg": 219,
+  "numero_ventas": 1500000
+}]

@@ -1,0 +1,50 @@
+[{
+  "_id": "QN-Q2-001",
+  "titulo": "Seven Seas of Rhye",
+  "anio_salida": 1974,
+  "autor": "Queen",
+  "id_imagen_portada": "Fotos_albums/Queen/Seven_seas_of_rhye.jpg",
+  "genero": "Rock / Glam Rock",
+  "duracion_seg": 170,
+  "numero_ventas": 2500000
+},
+{
+  "_id": "QN-Q2-002",
+  "titulo": "Father to Son",
+  "anio_salida": 1974,
+  "autor": "Queen",
+  "id_imagen_portada": "Fotos_albums/Queen/father_to_son.jpg",
+  "genero": "Rock / Progressive Rock",
+  "duracion_seg": 357,
+  "numero_ventas": 1200000
+},
+{
+  "_id": "QN-Q2-003",
+  "titulo": "White Queen (As It Began)",
+  "anio_salida": 1974,
+  "autor": "Queen",
+  "id_imagen_portada": "Fotos_albums/Queen/white_queen_(as_it_began).webp",
+  "genero": "Rock / Art Rock",
+  "duracion_seg": 289,
+  "numero_ventas": 1400000
+},
+{
+  "_id": "QN-Q2-004",
+  "titulo": "The Fairy Feller's Master-Stroke",
+  "anio_salida": 1974,
+  "autor": "Queen",
+  "id_imagen_portada": "Fotos_albums/Queen/the_fair_feller's_master_stroke.webp",
+  "genero": "Rock / Progressive Rock",
+  "duracion_seg": 156,
+  "numero_ventas": 900000
+},
+{
+  "_id": "QN-Q2-005",
+  "titulo": "March of the Black Queen",
+  "anio_salida": 1974,
+  "autor": "Queen",
+  "id_imagen_portada": "Fotos_albums/Queen/march_of_the_black_queen.jpg",
+  "genero": "Rock / Progressive Rock",
+  "duracion_seg": 412,
+  "numero_ventas": 1100000
+}]
