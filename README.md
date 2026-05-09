@@ -35,6 +35,7 @@ Findings, Challenges, and Lessons Learned
 - Lessons Learned: We gained hands-on experience in the ETL (Extract, Transform, Load) process, specifically focusing on data cleaning before analysis in Data Science workflows.
 
 How to Replicate this Exercise
+
 Prerequisites
 - MongoDB Compass installed.
 
